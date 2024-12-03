@@ -12,8 +12,8 @@ I'm currently interested in qualifying the performance of different brand of flu
 - PIANO: funded by Ifremer, it plan to conduct innovative technological developments on Argo floats and their sensors and to set up the French contribution to the new Argo phase over 2021-2027.
 
 📊 **Past Projects:**  
-- DELMOGES (DELphinus MOuvements GEStion): Led by Ifremer, CNRS and La Rochelle University, the DELMOGES project aims to understand the interactions between common dolphins and fisheries in the Bay of Biscay, and identify solutions to reduce bycatch.
-- ABRACOS (Acoustics along the BRAzilian COaSt): The ABRACOS (Acoustics along the BRAzilian COaSt) campaign aims to implement an integrated approach to monitoring tropical marine ecosystems in Brazil's Nordeste region, in order to better understand the connectivity between the sub-systems that make it up.
+- [DELMOGES](https://www.ifremer.fr/fr/presse/lancement-du-projet-delmoges-la-recherche-francaise-mobilisee-pour-mieux-comprendre-et) (DELphinus MOuvements GEStion)
+- [ABRACOS](https://tapioca.ird.fr/abracos-1/) (Acoustics along the BRAzilian COaSt)
 
 📫 **How to reach me:**  
 - Linkedin: https://fr.linkedin.com/in/baptisteozanam/en
